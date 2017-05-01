@@ -1,0 +1,4 @@
+target/
+node_modules/
+front.iml
+src/main/resources/static/js/bundle.js
